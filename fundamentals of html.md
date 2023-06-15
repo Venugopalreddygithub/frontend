@@ -1,9 +1,11 @@
+import './style.css'
+
 The basic structure of any HTML document is as follows: 
 <!DOCTYPE html>
 <html>
   <head></head>
   <body>
-    Your code goes here
+    <h1 class='red-text'>Hello World</h1>
   </body>
 </html>
 
