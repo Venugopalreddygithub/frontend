@@ -1,5 +1,6 @@
 Container Element
 The HTML div element defines a container.
+The div Element is used to wrap the elements in it.
 
 <div>
   <h1>Tourism</h1>
