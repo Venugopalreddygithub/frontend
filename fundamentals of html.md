@@ -3,7 +3,11 @@ import './style.css'
 The basic structure of any HTML document is as follows: 
 <!DOCTYPE html>
 <html>
-  <head></head>
+  <head>
+    <style>
+      <link rel='stylesheet' href='https://github.com/Venugopalreddygithub/frontend/blob/main/style.css'>
+    </style>
+  </head>
   <body>
     <h1 class='red-text'>Hello World</h1>
   </body>
