@@ -1,5 +1,3 @@
-import './style.css'
-
 The basic structure of any HTML document is as follows: 
 <!DOCTYPE html>
 <html>
